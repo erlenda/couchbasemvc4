@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouchbaseMVC4", "CouchbaseMVC4\CouchbaseMVC4.csproj", "{753B2F94-0AA2-4041-BCCB-CAF598777DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCouchbase", "TestCouchbase\TestCouchbase.csproj", "{6CE98381-DBFA-42D4-8623-A0F4923F551A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{753B2F94-0AA2-4041-BCCB-CAF598777DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753B2F94-0AA2-4041-BCCB-CAF598777DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753B2F94-0AA2-4041-BCCB-CAF598777DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753B2F94-0AA2-4041-BCCB-CAF598777DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE98381-DBFA-42D4-8623-A0F4923F551A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE98381-DBFA-42D4-8623-A0F4923F551A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE98381-DBFA-42D4-8623-A0F4923F551A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE98381-DBFA-42D4-8623-A0F4923F551A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
